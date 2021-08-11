@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jason Starkey
 - 👀 I’m interested in Full-Stack Web Development, GUI programming, General Software Development, and Networking
-- 🌱 I’m currently learning NodeJS & React :)
+- 🌱 I’m currently learning React & Responsive Design :)
 - 📖 I currently am familiar with JavaScript, Java, Python, C/C++, HTML, CSS, OCaml, MongoDB, Postgres, and much more!
 - 💞️ I’m looking to collaborate on anything and everything! 
 - 📫 I am looking for work!! How to reach me jstarkey0919@gmail.com
